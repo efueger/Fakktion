@@ -15,4 +15,4 @@ exclude_paths:
 - frontend/vendor/**/*
 - frontend/bower_components/**/*
 - frontend/node_modules/**/*
-- public/assets/**/*
+- "public/assets/**/*"
