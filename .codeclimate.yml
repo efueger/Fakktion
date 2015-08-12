@@ -8,7 +8,7 @@ engines:
   eslint:
     enabled: false
   csslint:
-    enabled: true
+    enabled: false
   bundler-audit:
     enabled: true
 exclude_paths:
