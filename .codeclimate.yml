@@ -16,3 +16,4 @@ exclude_paths:
 - frontend/bower_components/**/*
 - frontend/node_modules/**/*
 - public/assets/**/*
+_ **/assets/**/*
